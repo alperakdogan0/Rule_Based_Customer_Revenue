@@ -1,3 +1,5 @@
+## Rule_Based_Customer_Revenue
+
 ## 📚 Project Overview
 This project focuses on rule-based classification to estimate customer revenue. By segmenting customers and analyzing their attributes, the project aims to provide actionable insights into customer behavior and potential revenue generation.
 
